@@ -1,4 +1,5 @@
-# A 3 days Summer-School Corfu - Ionian Islands. 
+# A 3 days Summer-School 
+## Corfu - Ionian Islands. 
 
 https://github.com/bgarnb/Summer-School-on-Educational-Technologies-and-Serious-Games/wiki [Github] (Summer School)
    
